@@ -6,8 +6,8 @@
 
 <br>
 
-<h3>Teknologi yang Digunakan</h3>
-<p>Kuis Aksara Jawa dikembangkan menggunakan teknologi berikut:</p>
+<h3>Tools yang Digunakan</h3>
+<p>Kuis Aksara Jawa dikembangkan menggunakan:</p>
 <ul>
     <li><b>Game Engine</b>: Construct 3</li>
     <li><b>Platform</b>: Web</li>
